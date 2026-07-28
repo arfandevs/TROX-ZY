@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.troxzy.xploit.app-mergeDebugResources-65:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/home/codespace/.gradle/caches/transforms-4/1c0e6e75688afb8bfb27e2ac5007d43e/transformed/core-splashscreen-1.0.1/res/values-v31/values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    }
+                }
+            ]
+        }
+    ]
+}

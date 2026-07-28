@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amoled_black">#0A0A0A</color>
+    <color name="black">#FF000000</color>
+    <color name="dark_card">#141414</color>
+    <color name="dark_elevated">#252525</color>
+    <color name="dark_surface">#1A1A1A</color>
+    <color name="error_red">#FF4444</color>
+    <color name="info_blue">#448AFF</color>
+    <color name="neon_cyan">#00FFFF</color>
+    <color name="neon_cyan_dim">#008080</color>
+    <color name="neon_green">#00FF41</color>
+    <color name="neon_green_dim">#008020</color>
+    <color name="neon_purple">#BF00FF</color>
+    <color name="neon_purple_dim">#5F00A0</color>
+    <color name="severity_critical">#FF1744</color>
+    <color name="severity_high">#FF6D00</color>
+    <color name="severity_info">#448AFF</color>
+    <color name="severity_low">#00E676</color>
+    <color name="severity_medium">#FFD600</color>
+    <color name="text_primary">#E0E0E0</color>
+    <color name="text_secondary">#888888</color>
+    <color name="warning_yellow">#FFD600</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="ai_chat">AI Chat</string>
+    <string name="app_name">TroxzyXploit</string>
+    <string name="by_troxzy">by Troxzy | t.me/SoloBanNoTrash</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="crypto_tracker">Crypto Tracker</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="device_info">Device Info</string>
+    <string name="dns_lookup">DNS Lookup</string>
+    <string name="encoder_decoder">Encoder/Decoder</string>
+    <string name="encryption_tools">Encryption Tools</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="export_success">Export successful</string>
+    <string name="hash_tools">Hash Tools</string>
+    <string name="ip_geolocation">IP Geolocation</string>
+    <string name="mitm_dashboard">MITM Dashboard</string>
+    <string name="network_scanner">Network Scanner</string>
+    <string name="no_results">No results found</string>
+    <string name="osint_email">Email Lookup</string>
+    <string name="osint_image">Image Reverse Search</string>
+    <string name="osint_username">Username Search</string>
+    <string name="owner_name">Troxzy</string>
+    <string name="owner_telegram">t.me/SoloBanNoTrash</string>
+    <string name="packet_sniffer">Packet Sniffer</string>
+    <string name="password_generator">Password Generator</string>
+    <string name="port_scanner">Port Scanner</string>
+    <string name="reverse_ip">Reverse IP</string>
+    <string name="scan_complete">Scan complete</string>
+    <string name="scanning">Scanning…</string>
+    <string name="search_tools">Search tools…</string>
+    <string name="send">Send</string>
+    <string name="settings">Settings</string>
+    <string name="subdomain_finder">Subdomain Finder</string>
+    <string name="terminal">Terminal</string>
+    <string name="tools">Tools</string>
+    <string name="type_message">Type a message…</string>
+    <string name="vuln_checker">Vulnerability Checker</string>
+    <string name="web_scraper">Web Scraper</string>
+    <string name="whois_lookup">WHOIS Lookup</string>
+    <string name="wifi_analyzer">WiFi Analyzer</string>
+    <style name="Theme.TroxzyXploit" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorBackground">@color/amoled_black</item>
+        <item name="android:statusBarColor">@color/amoled_black</item>
+        <item name="android:navigationBarColor">@color/amoled_black</item>
+        <item name="android:windowBackground">@color/amoled_black</item>
+    </style>
+    <style name="Theme.TroxzyXploit.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/amoled_black</item>
+        <item name="windowSplashScreenAnimatedIcon">@color/amoled_black</item>
+        <item name="postSplashScreenTheme">@style/Theme.TroxzyXploit</item>
+    </style>
+</resources>

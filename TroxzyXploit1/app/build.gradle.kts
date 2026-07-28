@@ -7,12 +7,12 @@ plugins {
 
 android {
     namespace = "com.troxzy.xploit"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.troxzy.xploit"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0.0"
 
@@ -111,7 +111,7 @@ dependencies {
     implementation("com.google.accompanist:accompanist-systemuicontroller:0.34.0")
 
     // Charts
-    implementation("com.patrykandpatrick.vico:compose-m3:1.3.1")
+    implementation("com.patrykandpatrick.vico:compose-m3:2.0.0")
 
     // Logging
     implementation("com.jakewharton.timber:timber:5.0.1")
