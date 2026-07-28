@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TroxzyXploit" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorBackground">@color/amoled_black</item>
+        <item name="android:statusBarColor">@color/amoled_black</item>
+        <item name="android:navigationBarColor">@color/amoled_black</item>
+        <item name="android:windowBackground">@color/amoled_black</item>
+    </style>
+    <style name="Theme.TroxzyXploit.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/amoled_black</item>
+        <item name="windowSplashScreenAnimatedIcon">@color/amoled_black</item>
+        <item name="postSplashScreenTheme">@style/Theme.TroxzyXploit</item>
+    </style>
+</resources>

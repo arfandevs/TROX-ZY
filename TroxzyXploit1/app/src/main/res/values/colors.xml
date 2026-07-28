@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="amoled_black">#0A0A0A</color>
+    <color name="dark_surface">#1A1A1A</color>
+    <color name="dark_card">#141414</color>
+    <color name="dark_elevated">#252525</color>
+    <color name="neon_purple">#BF00FF</color>
+    <color name="neon_cyan">#00FFFF</color>
+    <color name="neon_green">#00FF41</color>
+    <color name="neon_purple_dim">#5F00A0</color>
+    <color name="neon_cyan_dim">#008080</color>
+    <color name="neon_green_dim">#008020</color>
+    <color name="text_primary">#E0E0E0</color>
+    <color name="text_secondary">#888888</color>
+    <color name="error_red">#FF4444</color>
+    <color name="warning_yellow">#FFD600</color>
+    <color name="info_blue">#448AFF</color>
+    <color name="severity_critical">#FF1744</color>
+    <color name="severity_high">#FF6D00</color>
+    <color name="severity_medium">#FFD600</color>
+    <color name="severity_low">#00E676</color>
+    <color name="severity_info">#448AFF</color>
+</resources>

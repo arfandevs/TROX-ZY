@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TroxzyXploit</string>
+    <string name="owner_name">Troxzy</string>
+    <string name="owner_telegram">t.me/SoloBanNoTrash</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="ai_chat">AI Chat</string>
+    <string name="tools">Tools</string>
+    <string name="terminal">Terminal</string>
+    <string name="settings">Settings</string>
+    <string name="network_scanner">Network Scanner</string>
+    <string name="port_scanner">Port Scanner</string>
+    <string name="vuln_checker">Vulnerability Checker</string>
+    <string name="wifi_analyzer">WiFi Analyzer</string>
+    <string name="mitm_dashboard">MITM Dashboard</string>
+    <string name="packet_sniffer">Packet Sniffer</string>
+    <string name="dns_lookup">DNS Lookup</string>
+    <string name="whois_lookup">WHOIS Lookup</string>
+    <string name="ip_geolocation">IP Geolocation</string>
+    <string name="reverse_ip">Reverse IP</string>
+    <string name="subdomain_finder">Subdomain Finder</string>
+    <string name="password_generator">Password Generator</string>
+    <string name="hash_tools">Hash Tools</string>
+    <string name="encoder_decoder">Encoder/Decoder</string>
+    <string name="encryption_tools">Encryption Tools</string>
+    <string name="osint_username">Username Search</string>
+    <string name="osint_email">Email Lookup</string>
+    <string name="osint_image">Image Reverse Search</string>
+    <string name="web_scraper">Web Scraper</string>
+    <string name="crypto_tracker">Crypto Tracker</string>
+    <string name="device_info">Device Info</string>
+    <string name="search_tools">Search tools…</string>
+    <string name="by_troxzy">by Troxzy | t.me/SoloBanNoTrash</string>
+    <string name="send">Send</string>
+    <string name="type_message">Type a message…</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="export_success">Export successful</string>
+    <string name="scan_complete">Scan complete</string>
+    <string name="scanning">Scanning…</string>
+    <string name="no_results">No results found</string>
+    <string name="error_occurred">An error occurred</string>
+</resources>
